@@ -1,0 +1,8 @@
+
+{
+  "name": "Lotometro - Spanish Lottery Portal",
+  "description": "A comprehensive portal for Spanish lottery results, ticket checking, historical archives, and game rules with an elegant, modern UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
